@@ -1,87 +1,102 @@
-<!-- Profil-README für github.com/Pappmann -->
-<!-- Diese Datei wird auf deiner GitHub-Profilseite angezeigt -->
+<!-- Profile README for github.com/yurijde -->
 
-<h1 align="center">👋 Willkommen, ich bin <code>Pappmann</code></h1>
+<h1 align="center">Hi, ich bin Yurij</h1>
 
 <p align="center">
-  <em>Entwickler, Denker, Musiker – auf der Suche nach Sinn in Code und Leben.</em><br>
-  <a href="https://github.com/Pappmann"><img src="https://img.shields.io/badge/Open%20Source-100%25-brightgreen?style=flat-square"></a>
-  <a href="https://github.com/Pappmann?tab=repositories"><img src="https://img.shields.io/badge/Projects-Active-blue?style=flat-square"></a>
-  <a href="https://pappmann.github.io"><img src="https://img.shields.io/badge/GitHub%20Page-Online-lightgrey?style=flat-square"></a>
+  <strong>Pappmann</strong> ist mein historisch gewachsener Nickname auf GitHub und anderen Plattformen.<br>
+  Ich baue offene Systemtools, Automatisierung und kleine Werkzeuge rund um Linux, GNOME und selbstverwaltete Infrastruktur.
+</p>
+
+<p align="center">
+  <a href="https://github.com/yurijde"><img src="https://img.shields.io/badge/GitHub-yurijde-24292f?style=flat-square&logo=github"></a>
+  <a href="https://github.com/Pappmann"><img src="https://img.shields.io/badge/GitHub-Pappmann-24292f?style=flat-square&logo=github"></a>
+  <a href="https://yurij.de"><img src="https://img.shields.io/badge/Web-yurij.de-0b7285?style=flat-square"></a>
 </p>
 
 ---
 
-### 🌍 Über mich
+## DE
 
-Ich bin **Stephan Mikwauschk**, hier bekannt als **Pappmann** – ein Bastler zwischen
-🧠 **Technik**, 🌿 **Nachhaltigkeit** und 🎶 **Kreativität**.  
-Ich glaube daran, dass **freie Software und geteiltes Wissen** die Grundlage einer lebendigen Zukunft sind.  
-Meine Repositories sind Werkstätten – nicht für Perfektion, sondern für **Entwicklung, Verständnis und Bewusstsein**.
+Ich arbeite gern an Software, die konkrete Probleme löst: nachvollziehbare
+Systemkonfiguration, Desktop-Integration, Automatisierung und kleine Werkzeuge,
+die den Alltag auf Linux-Systemen ruhiger und effizienter machen.
 
----
+Meine Repositories sind Werkstätten. Manche Projekte sind fertig benutzbare
+Tools, andere dokumentieren Lernwege, Experimente oder Beiträge zu größeren
+Open-Source-Projekten.
 
-### 🧰 Projekte & Ideen
+### Eigene und betreute Projekte
 
-| Thema | Beschreibung | Status |
-|-------|---------------|--------|
-| 🌀 **CatMerge** | Universelles Skript zum Zusammenführen von Mediendateien – frei & portabel | 🟢 stabil |
-| 🎵 **432Hz Converter** | Audio-Tool für natürliche Frequenzen & harmonische Musik | 🟡 aktiv |
-| 🌐 **KÄM / Menschfamilie / Geeinte Nationen** | Vernetzte, selbstgehostete Fediverse- & Webplattformen | 🧩 im Aufbau |
-| 🧭 **Archē / Kristallgarten** | Spirituelle & technische Projekte über Ursprung, Bewusstsein & Wandel | 🌀 organisch wachsend |
+| Projekt | Worum es geht |
+| --- | --- |
+| [layout-scripts/btrfs-layout-script](https://github.com/layout-scripts/btrfs-layout-script) | Debian-Server mit sauberem Btrfs-Subvolume-Layout für Timeshift und Container-Workloads vorbereiten. |
+| [system-extensions/loadshed](https://github.com/system-extensions/loadshed) | GNOME-Shell-Erweiterung zum Pausieren ausgewählter Hintergrunddienste aus den Quick Settings. |
+| [system-extensions/foldersize](https://github.com/system-extensions/foldersize) | Foldersize-Tab für Nautilus, um Ordnergrößen direkt im Dateimanager sichtbar zu machen. |
+| [system-extensions/hotspot](https://github.com/system-extensions/hotspot) | Quick-Settings-Schalter und Begleitskript für GNOME-Hotspots. |
+| [shell-extensions/gold-silver-price](https://github.com/shell-extensions/gold-silver-price) | GNOME-Erweiterung für aktuelle Gold- und Silberpreise im Desktop. |
+| [import-scripts/poweramp2mixxx](https://github.com/import-scripts/poweramp2mixxx) | CLI-Import von Poweramp-Bewertungen in eine Mixxx-Bibliothek. |
+| [Pappmann/pappmann.github.io](https://github.com/Pappmann/pappmann.github.io) | Profil- und Projektseite für offene Systemtools und Experimente. |
 
-👉 Mehr findest du unter [github.com/Pappmann?tab=repositories](https://github.com/Pappmann?tab=repositories)
+### Beiträge
 
----
+- [polyformproject/polyformproject.org#4](https://github.com/polyformproject/polyformproject.org/pull/4): Social-Metadata und Favicon.
+- [GSConnect/gnome-shell-extension-gsconnect#2159](https://github.com/GSConnect/gnome-shell-extension-gsconnect/pull/2159): GNOME-50-Kompatibilität präzisiert.
+- [plane-earth/cloud_bbb#1](https://github.com/plane-earth/cloud_bbb/pull/1): Nextcloud-33-Kompatibilität.
+- GNOME-Shell-50-Kompatibilitätsarbeit in mehreren Shell-Extension-Repositories.
 
-### 💡 Leitgedanke
+### Schwerpunkte
 
-> „Technik darf Bewusstsein dienen – nicht umgekehrt.“  
->  
-> Ich programmiere nicht nur, um Dinge *funktionieren* zu lassen,  
-> sondern um sie **verständlich** und **verbindend** zu gestalten.
-
----
-
-### 🪶 Werte & Prinzipien
-
-- 🌱 **Nachhaltigkeit** – Energie & Code so sparsam wie möglich  
-- 🤝 **Offenheit** – alles unter freien Lizenzen, nachvollziehbar & dokumentiert  
-- 🧭 **Eigenständigkeit** – lieber lernen als konsumieren  
-- 💬 **Kollaboration** – Feedback, Forks & Diskussionen ausdrücklich erwünscht  
+- Linux, Shell-Scripting, Python, JavaScript und Web-Basics
+- GNOME Shell, Nautilus, Desktop-Integration und lokale Systemdienste
+- Btrfs, Self-hosting, Container-Workloads und nachvollziehbare Admin-Abläufe
+- freie Software, dokumentierte Entscheidungen und sparsame, verständliche Tools
 
 ---
 
-### 🧩 Technisches & Ökosystem
+## EN
 
-Ich arbeite viel mit  
-**Linux (Fedora, NixOS, Debian ARM64 & AMD64)**,  
-**Docker / Podman / Kubernetes**,  
-**Bash, Python, HTML/CSS/JS**,  
-und setze auf **dezentrale Dienste** mit ActivityPub u.a.  
+I build practical open-source tools for Linux systems: desktop integration,
+automation, maintainable system setup, and small utilities that make daily work
+more predictable.
 
-> 💻 Ziel: ein Netzwerk selbstverwalteter, verbundener Systeme,  
-> die Gemeinschaft, Kreativität und Wissen fördern.
+My repositories are workshops. Some projects are ready-to-use tools; others
+capture experiments, learning paths, or contributions to larger open-source
+projects.
+
+### Projects I build or maintain
+
+| Project | Focus |
+| --- | --- |
+| [layout-scripts/btrfs-layout-script](https://github.com/layout-scripts/btrfs-layout-script) | Prepare a fresh Debian server with a clean Btrfs subvolume layout for Timeshift and container workloads. |
+| [system-extensions/loadshed](https://github.com/system-extensions/loadshed) | GNOME Shell extension for pausing selected background services from Quick Settings. |
+| [system-extensions/foldersize](https://github.com/system-extensions/foldersize) | Nautilus foldersize tab for showing folder sizes directly in the file manager. |
+| [system-extensions/hotspot](https://github.com/system-extensions/hotspot) | Quick Settings hotspot toggle for GNOME plus a companion script. |
+| [shell-extensions/gold-silver-price](https://github.com/shell-extensions/gold-silver-price) | GNOME extension that shows current gold and silver prices on the desktop. |
+| [import-scripts/poweramp2mixxx](https://github.com/import-scripts/poweramp2mixxx) | CLI importer for moving Poweramp ratings into a Mixxx library. |
+| [Pappmann/pappmann.github.io](https://github.com/Pappmann/pappmann.github.io) | Profile and project page for open system tools and experiments. |
+
+### Contributions
+
+- [polyformproject/polyformproject.org#4](https://github.com/polyformproject/polyformproject.org/pull/4): social metadata and favicon.
+- [GSConnect/gnome-shell-extension-gsconnect#2159](https://github.com/GSConnect/gnome-shell-extension-gsconnect/pull/2159): clarified GNOME 50 compatibility.
+- [plane-earth/cloud_bbb#1](https://github.com/plane-earth/cloud_bbb/pull/1): Nextcloud 33 compatibility.
+- GNOME Shell 50 compatibility work across several shell-extension repositories.
+
+### Focus areas
+
+- Linux, shell scripting, Python, JavaScript, and web basics
+- GNOME Shell, Nautilus, desktop integration, and local system services
+- Btrfs, self-hosting, container workloads, and reproducible admin workflows
+- free software, documented decisions, and small tools that stay understandable
 
 ---
 
-### 🌐 Links & Kontakt
+## Links
 
-🌍 [pappmann.github.io](https://pappmann.github.io)  
-🐘 [Menschfamilie.de](https://menschfamilie.de)  
-🌱 [Kristallgarten.de](https://kristallgarten.de)  
-📬 Kontakt: pappmann@pappmann.com
-
----
-
-### 🇩🇪 / 🇬🇧 Kurzfassung
-
-**DE:** Freie Software, nachhaltige Technik, kreative Experimente.  
-**EN:** Open-source, sustainable tech & creative experiments.
-
----
+- GitHub: [yurijde](https://github.com/yurijde) / [Pappmann](https://github.com/Pappmann)
+- Web: [yurij.de](https://yurij.de) / [pappmann.de](https://pappmann.de)
+- Mail: [pappmann@pappmann.com](mailto:pappmann@pappmann.com)
 
 <p align="center">
-  <sub>„Code ist nur Werkzeug – das Bewusstsein dahinter entscheidet, wofür wir ihn einsetzen.“</sub><br>
-  <sup>© 2025 Pappmann – frei unter MIT oder CC0</sup>
+  <sub>Repositories have their own licenses. Please check the license file in each project.</sub>
 </p>
